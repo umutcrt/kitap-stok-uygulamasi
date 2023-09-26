@@ -1,10 +1,10 @@
-# Kitap Stok Uygulaması Gizlilik Politikası
+# Kitap Stok Takibi ve Yönetimi Gizlilik Politikası
 
-Bu gizlilik politikası, Kitap Stok Uygulaması'nı kullanırken kişisel bilgilerinizin nasıl toplandığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklar. Lütfen bu politikayı dikkatlice okuyun ve uygulamamızı kullanarak aşağıdaki şartları kabul ettiğinizi onaylayın.
+Bu gizlilik politikası, Kitap Stok Takibi ve Yönetimi'ni kullanırken kişisel bilgilerinizin nasıl toplandığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklar. Lütfen bu politikayı dikkatlice okuyun ve uygulamamızı kullanarak aşağıdaki şartları kabul ettiğinizi onaylayın.
 
 ## Kişisel Bilgilerin Toplanması ve Kullanılması
 
-* **Kayıt Bilgileri:** Kitap Stok Uygulaması'nı kullanırken, adınız, e-posta adresiniz ve şifreniz gibi temel kayıt bilgilerinizi toplayabiliriz. Bu bilgiler, hesabınızı oluşturmak ve yönetmek için kullanılır.
+* **Kayıt Bilgileri:** Kitap Stok Takibi ve Yönetimi'ni kullanırken, adınız, e-posta adresiniz ve şifreniz gibi temel kayıt bilgilerinizi toplayabiliriz. Bu bilgiler, hesabınızı oluşturmak ve yönetmek için kullanılır.
 * **Kitap Bilgileri:** Uygulama içinde kitap eklerken veya güncellerken, kitapların adları, yazarları, yayınevleri ve ISBN gibi kitaplarla ilgili bilgileri girebilirsiniz. Bu bilgiler, kitaplarınızı düzenlemeniz ve takip etmeniz için kullanılır ve uygulama içindeki işlevselliği sağlamak için saklanır.
 * **Kullanım Bilgileri:** Uygulama kullanımınıza ilişkin bilgiler, örneğin hangi kitapları aradığınız veya listeler oluşturduğunuz gibi, uygulamamızın performansını ve kullanımınızı iyileştirmek amacıyla toplanabilir ve analiz edilebilir.
 
